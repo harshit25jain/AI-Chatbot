@@ -19,7 +19,7 @@ A full-stack AI-powered chatbot built using the *MERN stack (MongoDB, Express.js
 ### Frontend
 - React.js
 - Axios
-- Bootstrap / TailwindCSS (optional)
+- TailwindCSS 
 - JWT for token-based auth
 
 ### Backend
@@ -50,28 +50,28 @@ AI-Chatbot/
 ## 🧪 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/AI-Chatbot.git
-cd AI-Chatbot
+-git clone https://github.com/yourusername/AI-Chatbot.git
+-cd AI-Chatbot
 
 ### 2. Backend Setup
-cd backend
+-cd backend
 npm install
-# Add your MongoDB URI and secrets in .env
-npm start
+#### Add your MongoDB URI and secrets in .env
+-npm start
 
 ### 3. Frontend Setup
-cd ../frontend
-npm install
-npm start
+-cd ../frontend
+-npm install
+-npm start
 
 ---
 
 ### 🌐 API Endpoints (Backend)
-Method	Endpoint	        Description
-POST	/api/user/login	    Login user
-POST	/api/user/register	Register new user
-POST	/api/chat/ask	      Get response from chatbot
-GET	  /api/project	      Get projects for user
+-Method	Endpoint	        Description
+-POST	/api/user/login	    Login user
+-POST	/api/user/register	Register new user
+-POST	/api/chat/ask	      Get response from chatbot
+-GET	  /api/project	      Get projects for user
 
 ### 🙋‍♂ Author
 Harshit Jain
