@@ -76,11 +76,3 @@ GET	  /api/project	      Get projects for user
 ### 🙋‍♂ Author
 Harshit Jain
 
-GitHub
-
-LinkedIn
-
-GeeksforGeeks
-
-📜 License
-This project is open source and available under the MIT License.
